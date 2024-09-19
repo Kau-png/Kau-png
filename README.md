@@ -1,5 +1,8 @@
-## Hi there 👋
-
+-eu sou kaua 👋
+- tenho 15 anos
+- estudo no generoso marques
+- ja joguei em joinville
+- 
 <!--
 **Kau-png/Kau-png** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
